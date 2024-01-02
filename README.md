@@ -6,10 +6,13 @@ So Follow This docmentation step by step so that you can esaily get to the end o
 
 #### STEP 1:
 
-
 #### Creating Pages and Routes:
 
----------------------------------------------------------------------------------------------------------------------------------
+- create a folder (Pages in /src/pages)
+- create files in pages folder Home, About, Profile, signout, signin and other as per your use
+  ![File Structure](image.png)
+
+---
 
 Currently, two official plugins are available:
 
